@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "y",
+    "public": "build",
     "site": "realtime-chat-app-abd",
     "ignore": [
       "firebase.json",
